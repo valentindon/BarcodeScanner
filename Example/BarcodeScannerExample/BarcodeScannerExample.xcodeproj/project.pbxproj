@@ -15,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		393E47BD2864954900494BAF /* BarcodeScanner */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = BarcodeScanner; path = ../..; sourceTree = "<group>"; };
 		63C957FD1F74872600BAD365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D50BE3F51C9FE8870000A34C /* BarcodeScannerExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarcodeScannerExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D50BE3F81C9FE8870000A34C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -39,7 +38,6 @@
 		D50BE3EC1C9FE8870000A34C = {
 			isa = PBXGroup;
 			children = (
-				393E47BD2864954900494BAF /* BarcodeScanner */,
 				D50BE3F71C9FE8870000A34C /* BarcodeScannerExample */,
 				D50BE3F61C9FE8870000A34C /* Products */,
 			);
